@@ -2,14 +2,17 @@
 
 ![:name](https://count.getloli.com/get/@:DoginUwU)
 
-I'm Luiz Eduardo, a passionate self-taught Front-end web developer and a freelance from Brazil. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+👋 Hi, I'm Rui, I'm 16 years old.
+I study programming for +- 1 year
+ I started in the career thanks to my mother showing me this side.
+my first language to learn was html -> css -> js -> py -> c# -> mysql -> R
 
-  <h3>Stats</h3>
+  <h3>📜 Stats</h3>
   <div align="center">
     <img alt="laxz streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=imLaxz&theme=react&hide_border=true&background=060A0CD0#version3" />
   </div>
   
-<h3>My skills</h3>
+<h3>💼 My skills</h3>
 
 <p align="left">
   <a href="https://skillicons.dev">
