@@ -33,4 +33,4 @@ my first language to learn was html.
 </p>
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imLaxz&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imLaxz&theme=react&layout=compact)](https://github.com/imLaxz/github-readme-stats)
