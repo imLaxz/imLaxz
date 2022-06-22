@@ -16,11 +16,11 @@ I'm Luiz Eduardo, a passionate self-taught Front-end web developer and a freelan
     <img src="https://skillicons.dev/icons?i=html,css,js,java,dotnet,py,r,mysql" />
   </a>
 </p>
-<h3>workspace</h3>
+<!--<h3>workspace</h3>
 <p align="left"
      <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=idea,vscode,discord,visualstudio,eclipse" />
-
+-->
 <h3>Where to find me</h3>
 <p>
 <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
