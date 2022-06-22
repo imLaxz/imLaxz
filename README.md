@@ -1,6 +1,6 @@
 <h1><img src="https://c.tenor.com/0YpPpIrN0AIAAAAC/anime-girl.gif" width="60"/> Hey, welcome.</h1>
 
-![:name](https://count.getloli.com/get/@:DoginUwU)
+![:name](https://count.getloli.com/get/@:imLaxz)
 
 👋 Hi, I'm Rui, I'm 16 years old.
 I study programming for +- 1 year
