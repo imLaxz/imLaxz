@@ -5,7 +5,7 @@
 I'm Luiz Eduardo, a passionate self-taught Front-end web developer and a freelance from Brazil. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
   <h3>Stats</h3>
-  <div align="start">
+  <div align="center">
     <img alt="laxz streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=imLaxz&theme=react&hide_border=true&background=060A0CD0#version3" />
   </div>
   
