@@ -4,7 +4,7 @@
 
 👋 Hi, I'm Rui, I'm 16 years old.
 I study programming for +- 1 year
- I started in the <tr>career thanks to my mother showing me this side.
+ I started in the career thanks to my mother showing me this side.
 my first language to learn was html.
 
   <h3>📜 Stats</h3>
