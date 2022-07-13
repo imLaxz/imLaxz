@@ -27,7 +27,7 @@ xd
 <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="mailto:laxz.sftengineer@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-%2312100E.svg?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
   <a href="https://twitter.com/imLaxz" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://discord.com/users/656129876092518400" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865f2.svg?&style=for-the-badge&logo=Discord&logoColor=white" /></a> 
+  <a href="https://discord.com/users/897982586448658502" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-%235865f2.svg?&style=for-the-badge&logo=Discord&logoColor=white" /></a> 
 </p>
 <br />
 
